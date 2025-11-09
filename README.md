@@ -1,21 +1,20 @@
 # Hi, I'm **Mederick**
-
 **Full Stack Developer (Laravel / React)**  
 I build backends and interfaces that are **clean, maintainable, and stable over time.**
 
 ---
 
-### 🧱 Core Stack
+## 🧱 Core Stack / Stack Principal
 
-| Category | Technologies |
-|---------|--------------|
+| Category / Catégorie | Technologies |
+|----------------------|--------------|
 | Backend | **PHP 8+**, **Laravel**, Livewire, REST APIs |
 | Frontend | **React**, Alpine.js, Blade, Tailwind CSS |
-| Databases | **MySQL**, PostgreSQL |
-| Environments | **Docker**, Linux / WSL2 |
-| Tooling | Git, phpMyAdmin / pgAdmin |
+| Databases / Bases de données | **MySQL**, PostgreSQL |
+| Environments / Environnements | **Docker**, Linux / WSL2 |
+| Tooling / Outils | Git, phpMyAdmin / pgAdmin |
 
-#### Minimal & calm badge theme
+#### Minimal & calm badge theme / Thème minimal et sobre
 
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-4F5B93?style=flat&logo=php&logoColor=white)
@@ -28,37 +27,51 @@ I build backends and interfaces that are **clean, maintainable, and stable over 
 
 ---
 
-### 🛠 Projects
+## 🛠 Projects / Projets
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Kupoval** | Modern e-commerce backend foundations. Stripe integration + Docker env. | Laravel • PostgreSQL • Stripe • Docker |
-| **JCLGenerator** | Go CLI for generating JCL batch scripts (mainframe modernization helper). | Go |
-| **TechAssist** | Lightweight internal ticket system, containerized. | PHP • Docker |
-| **docker.sh** | Environment bootstrap + dev utility wrapper. | Bash |
-| **ConfigFiles** | Personal dev environment configuration. | Linux • CLI |
+| Project | Description (EN) | Description (FR) | Tech |
+|--------|------------------|-----------------|------|
+| **Kupoval** | Modern e-commerce backend foundations. | Fondations backend e-commerce moderne. | Laravel • PostgreSQL • Stripe • Docker |
+| **JCLGenerator** | Go CLI for generating JCL batch scripts. | Générateur CLI JCL pour automatisation mainframe. | Go |
+| **TechAssist** | Lightweight internal ticket system. | Système de tickets interne léger. | PHP • Docker |
+| **docker.sh** | Developer environment bootstrap & utility script. | Script utilitaire et bootstrap d’environnement dev. | Bash |
+| **ConfigFiles** | Personal workstation configuration repo. | Configuration personnelle d’environnement de dev. | Linux • CLI |
 
 ---
 
-### 🧭 How I Work
+## 🧭 How I Work / Ma Façon de Travailler
 
+### EN
 I write code that is:
-
 - **Predictable** (strict typing, guard clauses, clear constraints)
-- **Documented where it matters** (future-me and teammates first)
-- **Easy to evolve** (stable foundations → iterative improvements)
+- **Documented where it matters**
+- **Easy to evolve** (stable foundation → incremental improvement)
 - **Calm** (no cleverness for its own sake)
 
-I don’t rush complexity — I build it **only when the foundation is solid**.
+I don’t rush complexity.  
+I build the base **solid first**, then iterate.
+
+### FR
+J’écris du code qui est :
+- **Prévisible** (types stricts, garde-fous, contraintes claires)
+- **Documenté là où c’est utile**
+- **Facile à faire évoluer** (base stable → amélioration progressive)
+- **Calme** (pas de complexité gratuite)
+
+Je ne précipite pas l’architecture.  
+La base doit être **solide**, puis on itère.
 
 ---
 
-### 📬 Contact
-- LinkedIn: https://www.linkedin.com/in/mederick-bernier-095a3b80  
-- GitHub: https://github.com/MederickBernier  
+## 📬 Contact
+
+| Platform | Link |
+|---------|------|
+| LinkedIn | https://www.linkedin.com/in/mederick-bernier-095a3b80 |
+| GitHub | https://github.com/MederickBernier |
 
 ---
 
-### 🇨🇦 FR-CA Résumé Bref
+## 🇨🇦 Résumé (FR-CA)
 Développeur Full Stack spécialisé **Laravel / React / MySQL**, environnement **Docker**, documentation claire et logique défensive (guard clauses). Approche **stable → puis itérative**, orientée vers la **maintenabilité long terme**.
 
