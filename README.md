@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MederickBernier/MederickBernier/master/banner.png" alt="header" width="85%" height="50%">
-</p>
-
 # Hi, I'm **Mederick**
 
 **Full Stack Developer (Laravel / React)**  
