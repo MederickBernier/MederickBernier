@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MederickBernier/MederickBernier/main/banner.png" alt="header" width="85%">
+  <img src="https://raw.githubusercontent.com/MederickBernier/MederickBernier/master/banner.png" alt="header" width="85%">
 </p>
 
 # Hi, I'm **Mederick**
