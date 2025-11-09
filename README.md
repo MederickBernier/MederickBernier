@@ -70,6 +70,41 @@ La base doit être **solide**, puis on itère.
 
 ---
 
-## 🇨🇦 Résumé (FR-CA)
-Développeur Full Stack spécialisé **Laravel / React / MySQL**, environnement **Docker**, documentation claire et logique défensive (guard clauses). Approche **stable → puis itérative**, orientée vers la **maintenabilité long terme**.
+### 🇨🇦 FR-CA — Résumé Complet
+
+Développeur **Full Stack** spécialisé en **Laravel / React**, avec un souci particulier pour la **stabilité**, la **maintenabilité** et la **cohérence du code**.
+
+Je structure mes projets avec :
+- **Types stricts**
+- **Clauses de garde**
+- **Documentation ciblée**
+- **Architecture progressive (base stable → évolution incrémentale)**
+
+J’ai également de l’expérience avec :
+- **Docker** (environnements reproductibles)
+- **MySQL / PostgreSQL** (gestion de données)
+- **Linux / WSL2** (développement quotidien)
+
+J’aime construire des systèmes clairs, cohérents et faciles à faire évoluer dans le temps.  
+Pas de complexité inutile — juste du **fonctionnel solide et durable**.
+
+---
+
+### 🇺🇸 EN — Full Summary
+
+Full Stack Developer specialized in **Laravel / React**, with a focus on **maintainability, clarity, and long-term stability**.
+
+I structure my work using:
+- **Strict typing**
+- **Guard clauses**
+- **Purposeful documentation**
+- **Incremental architecture (solid foundation → iterative improvements)**
+
+Experienced with:
+- **Docker** for reproducible environments
+- **MySQL / PostgreSQL** data workflows
+- **Linux / WSL2** daily development setups
+
+I build systems that are **clean, predictable, and easy to evolve**.  
+No unnecessary complexity — just **stable and reliable software**.
 
