@@ -14,8 +14,6 @@ I build backends and interfaces that are **clean, maintainable, and stable over 
 | Environments / Environnements | **Docker**, Linux / WSL2 |
 | Tooling / Outils | Git, phpMyAdmin / pgAdmin |
 
-#### Minimal & calm badge theme / Thème minimal et sobre
-
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-4F5B93?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=flat&logo=mysql&logoColor=white)
