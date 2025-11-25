@@ -1,63 +1,98 @@
+# **Profil GitHub – Version Bilingue (EN & FR Complet)**
+
+---
+
+# 🇺🇸 **English Version**
+
 # Hi, I'm **Mederick**
-**Full Stack Developer (Laravel / React)**  
-I build backends and interfaces that are **clean, maintainable, and stable over time.**
+**Backend & Systems Developer — PHP • Go • Java • Linux**  
+I build **stable, maintainable, and long‑lasting** systems with an emphasis on clarity, structure, and incremental modernization.
 
 ---
 
-## 🧱 Core Stack / Stack Principal
+## 🧱 Core Stack
 
-| Category / Catégorie | Technologies |
-|----------------------|--------------|
-| Backend | **PHP 8+**, **Laravel**, Livewire, REST APIs |
-| Frontend | **React**, Alpine.js, Blade, Tailwind CSS |
-| Databases / Bases de données | **MySQL**, PostgreSQL |
-| Environments / Environnements | **Docker**, Linux / WSL2 |
-| Tooling / Outils | Git, phpMyAdmin / pgAdmin |
+### **Backend**
+- **PHP 8+** (vanilla, custom frameworks, legacy‑safe modernization)
+- **Go** (CLI tooling, integration, batch workflows)
+- **Java 21** (enterprise fundamentals, integration patterns)
+- **COBOL/JCL** (ecosystem understanding for modernization)
 
-![Laravel](https://img.shields.io/badge/Laravel-E74430?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-4F5B93?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=flat&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-5CCFEE?style=flat&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-3A95CE?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-777777?style=flat&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### **Databases**
+- **MySQL**, **PostgreSQL**
+- Familiar with DB2 ecosystem patterns
 
----
+### **Frontend**
+- Blade • Alpine.js  
+- Light React usage when appropriate
 
-## 🛠 Projects / Projets
+### **Environments**
+- **Docker**, Linux (WSL2/Ubuntu), Git  
+- Reproducible development setups  
+- Bash automation & scripting
 
-| Project | Description (EN) | Description (FR) | Tech |
-|--------|------------------|-----------------|------|
-| **Kupoval** | Modern e-commerce backend foundations. | Fondations backend e-commerce moderne. | Laravel • PostgreSQL • Stripe • Docker |
-| **JCLGenerator** | Go CLI for generating JCL batch scripts. | Générateur CLI JCL pour automatisation mainframe. | Go |
-| **TechAssist** | Lightweight internal ticket system. | Système de tickets interne léger. | PHP • Docker |
-| **docker.sh** | Developer environment bootstrap & utility script. | Script utilitaire et bootstrap d’environnement dev. | Bash |
-| **ConfigFiles** | Personal workstation configuration repo. | Configuration personnelle d’environnement de dev. | Linux • CLI |
+### **Engineering Practices**
+- Strict typing  
+- Guard clauses  
+- Predictable behaviour  
+- Static analysis (**PHPStan**)  
+- Documentation where it matters  
+- Incremental architecture (solid foundation → controlled evolution)
 
 ---
 
-## 🧭 How I Work / Ma Façon de Travailler
+## 🛠 Projects
 
-### EN
+### **1. TechAssist — Lightweight Ticket System (PHP 8, Docker)**
+Vanilla PHP 8 ticket/helpdesk system. Built with clarity, maintainability, and stable backend logic.  
+**Tech:** PHP 8 • Docker • MariaDB  
+**Repo:** https://github.com/MederickBernier/TechAssist
+
+---
+
+### **2. JCLGenerator — CLI JCL Generator (Go)**
+Go‑based CLI for generating JCL batch scripts. Designed for deterministic output, clean structure, and long‑term stability.  
+**Tech:** Go  
+**Repo:** https://github.com/MederickBernier/JCLGenerator
+
+---
+
+### **3. Kupoval — Modern E‑commerce Backend Foundations**
+Modular backend architecture for e‑commerce using modern PHP patterns.  
+**Tech:** Laravel • PostgreSQL • Docker  
+**Repo:** https://github.com/MederickBernier/Kupoval
+
+---
+
+### **4. Utility Scripts & Configuration**
+- **docker.sh** – Dev environment bootstrap script  
+- **ConfigFiles** – Linux configs, aliases, tooling  
+**Tech:** Bash • Linux
+
+---
+
+## 🧭 How I Work
+
 I write code that is:
-- **Predictable** (strict typing, guard clauses, clear constraints)
-- **Documented where it matters**
-- **Easy to evolve** (stable foundation → incremental improvement)
-- **Calm** (no cleverness for its own sake)
+- **Predictable**  
+- **Clear**  
+- **Documented where needed**  
+- **Easy to evolve without breaking foundations**
 
-I don’t rush complexity.  
-I build the base **solid first**, then iterate.
+My methodology:  
+1. Build a **stable base**  
+2. Iterate incrementally  
+3. Keep systems calm and maintainable  
 
-### FR
-J’écris du code qui est :
-- **Prévisible** (types stricts, garde-fous, contraintes claires)
-- **Documenté là où c’est utile**
-- **Facile à faire évoluer** (base stable → amélioration progressive)
-- **Calme** (pas de complexité gratuite)
+---
 
-Je ne précipite pas l’architecture.  
-La base doit être **solide**, puis on itère.
+## 📚 Current Learning & Focus
+
+- IBM z/OS Mainframe Practitioner  
+- IBM Mainframe Developer  
+- Java Programming & Software Engineering  
+- Go specialization  
+- Legacy modernization tooling (DocumentForge, JetBrains plugin ideas)
 
 ---
 
@@ -70,41 +105,107 @@ La base doit être **solide**, puis on itère.
 
 ---
 
-### 🇨🇦 FR-CA — Résumé Complet
+---
 
-Développeur **Full Stack** spécialisé en **Laravel / React**, avec un souci particulier pour la **stabilité**, la **maintenabilité** et la **cohérence du code**.
+# 🇨🇦 **Version Française**
 
-Je structure mes projets avec :
-- **Types stricts**
-- **Clauses de garde**
-- **Documentation ciblée**
-- **Architecture progressive (base stable → évolution incrémentale)**
-
-J’ai également de l’expérience avec :
-- **Docker** (environnements reproductibles)
-- **MySQL / PostgreSQL** (gestion de données)
-- **Linux / WSL2** (développement quotidien)
-
-J’aime construire des systèmes clairs, cohérents et faciles à faire évoluer dans le temps.  
-Pas de complexité inutile — juste du **fonctionnel solide et durable**.
+# Salut, moi c’est **Mederick**
+**Développeur Backend & Systèmes — PHP • Go • Java • Linux**  
+Je construis des systèmes **stables, maintenables et durables**, axés sur la clarté, la structure et l’évolution progressive.
 
 ---
 
-### 🇺🇸 EN — Full Summary
+## 🧱 Stack Principale
 
-Full Stack Developer specialized in **Laravel / React**, with a focus on **maintainability, clarity, and long-term stability**.
+### **Backend**
+- **PHP 8+** (PHP pur, frameworks internes, modernisation sécuritaire)
+- **Go** (outils CLI, intégrations, traitements batch)
+- **Java 21** (fondements entreprise, intégration)
+- **COBOL/JCL** (compréhension de l’écosystème mainframe)
 
-I structure my work using:
-- **Strict typing**
-- **Guard clauses**
-- **Purposeful documentation**
-- **Incremental architecture (solid foundation → iterative improvements)**
+### **Bases de données**
+- **MySQL**, **PostgreSQL**
+- Notions de DB2 et environnements associés
 
-Experienced with:
-- **Docker** for reproducible environments
-- **MySQL / PostgreSQL** data workflows
-- **Linux / WSL2** daily development setups
+### **Frontend**
+- Blade • Alpine.js  
+- React léger au besoin
 
-I build systems that are **clean, predictable, and easy to evolve**.  
-No unnecessary complexity — just **stable and reliable software**.
+### **Environnements**
+- **Docker**, Linux (WSL2/Ubuntu), Git  
+- Environnements reproductibles  
+- Automatisation Bash
 
+### **Pratiques d’ingénierie**
+- Typage strict  
+- Clauses de garde  
+- Code prévisible  
+- Analyse statique (**PHPStan**)  
+- Documentation ciblée  
+- Architecture incrémentale (base solide → évolutions maîtrisées)
+
+---
+
+## 🛠 Projets
+
+### **1. TechAssist — Système de Tickets (PHP 8, Docker)**
+Système interne de gestion de tickets en PHP pur. Conçu pour être clair, stable et simple à maintenir.  
+**Tech :** PHP 8 • Docker • MariaDB  
+**Dépôt :** https://github.com/MederickBernier/TechAssist
+
+---
+
+### **2. JCLGenerator — Générateur JCL en CLI (Go)**
+Générateur CLI en Go pour produire des scripts JCL de façon fiable, déterministe et bien structurée.  
+**Tech :** Go  
+**Dépôt :** https://github.com/MederickBernier/JCLGenerator
+
+---
+
+### **3. Kupoval — Fondations Backend E‑commerce Moderne**
+Architecture backend modulaire bâtie sur les principes PHP modernes.  
+**Tech :** Laravel • PostgreSQL • Docker  
+**Dépôt :** https://github.com/MederickBernier/Kupoval
+
+---
+
+### **4. Scripts & Configuration**
+- **docker.sh** – Script d’installation d’environnements  
+- **ConfigFiles** – Configurations Linux, alias, outils  
+**Tech :** Bash • Linux
+
+---
+
+## 🧭 Ma Façon de Travailler
+
+J’écris du code :
+- **Prévisible**
+- **Clair**
+- **Documenté au bon endroit**
+- **Facile à faire évoluer sans briser la base**
+
+Ma méthode :  
+1. Bâtir une **fondation solide**  
+2. Ajouter des évolutions graduellement  
+3. Garder les systèmes calmes et cohérents  
+
+---
+
+## 📚 Formations et Axes Actuels
+
+- IBM z/OS Mainframe Practitioner  
+- IBM Mainframe Developer  
+- Java Programming & Software Engineering  
+- Spécialisation Go  
+- Outils de modernisation (DocumentForge, plugins JetBrains)
+
+---
+
+## 📬 Contact
+
+| Plateforme | Lien |
+|------------|------|
+| LinkedIn | https://www.linkedin.com/in/mederick-bernier-095a3b80 |
+| GitHub | https://github.com/MederickBernier |
+
+---
