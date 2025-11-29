@@ -1,110 +1,100 @@
-# 👋 Hi, I'm **Mederick**
-**Backend Developer — PHP • C# (.NET) • SQL • Docker • Linux**
+# 👋 Hi, I'm **Mederick**  
+**Backend Developer — PHP • C# • SQL • Docker • Linux**
 
-I build **clear, stable, maintainable backend systems** with a strong emphasis on predictable behavior, structure, and long‑term evolution.
+I build **clear, stable, maintainable backend systems** with a strong emphasis on predictable behavior, structure, and long-term evolution.
 
-🔎 **Currently seeking backend PHP or .NET opportunities** (Laravel, PHP 8, ASP.NET MVC, SQL, Docker).
+🔎 **Currently seeking backend opportunities in PHP or .NET**  
+(Laravel, PHP 8, ASP.NET MVC/API, SQL, Docker)
 
 ---
 
 # 🧱 Core Stack
 
-### **Backend**
-- **PHP 8+** (vanilla, Laravel, backend architecture)
-- **C# / ASP.NET MVC** (AEC training + practical project)
-- **Node.js / TypeScript** (professional internship)
-- **Go** (CLI tooling, batch workflows)
-- **Java 21** (integration patterns, ongoing learning)
-- **COBOL / JCL** (ecosystem understanding for modernization)
+## Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?logo=laravel&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
-### **Databases**
-- **MySQL**, **PostgreSQL**
-- Familiarity with DB2 patterns
+## Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-### **Frontend**
-- Blade • Alpine.js
-- Light React usage when appropriate
+## Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-### **Environments & Tooling**
-- **Docker**, Linux (WSL2/Ubuntu), Git
-- Reproducible dev environments
-- Bash automation
-
-### **Engineering Practices**
-- Strict typing
-- Guard clauses
-- Predictable behavior
-- Static analysis (**PHPStan**)
-- Documentation where it matters
-- Incremental architecture (solid foundation → controlled evolution)
+## Environments & Tooling
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
 # 🛠 Notable Projects
 
-### **1. TechAssist — Lightweight Ticket System (PHP 8, Docker)**
-Vanilla PHP 8 ticket/helpdesk system focused on clarity and maintainability.  
-**Tech:** PHP 8 • Docker • MariaDB  
+### **TechAssist — Lightweight Ticket System (PHP 8, Docker)**
+Vanilla PHP system with a clean, maintainable backend.
 🔗 https://github.com/MederickBernier/TechAssist
 
----
-
-### **2. Kupoval — E-commerce Backend Foundations (Laravel)**
-Modular, structured backend architecture for a modern e‑commerce foundation.  
-**Tech:** Laravel • PostgreSQL • Docker  
+### **Kupoval — Structured E‑commerce Backend (Laravel)**
+Laravel-based architecture focused on clarity and modularity.  
 🔗 https://github.com/MederickBernier/Kupoval
 
----
-
-### **3. JCLGenerator — CLI JCL Generator (Go)**
-Go‑based CLI tool generating deterministic JCL batch scripts.  
-**Tech:** Go  
+### **JCLGenerator — CLI JCL Generator (Go)**
+CLI tool for deterministic JCL generation using Go templates.  
 🔗 https://github.com/MederickBernier/JCLGenerator
 
----
-
-### **4. HESDashboard — ASP.NET MVC Dashboard**
-Simple dashboard built using ASP.NET MVC and Razor views.  
-**Tech:** C# • ASP.NET MVC • SQL  
+### **HESDashboard — ASP.NET MVC Dashboard**
+Dashboard demonstrating .NET MVC structure.  
 🔗 https://github.com/MederickBernier/HESDashboard
 
 ---
 
-### **5. Utility Scripts & Configurations**
-- `docker.sh` — environment bootstrap script  
-- Linux configs, aliases, tooling  
-**Tech:** Bash • Linux  
+# 📊 GitHub Stats
+
+<details>
+<summary>Click to expand</summary>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MederickBernier&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MederickBernier&layout=compact)
+
+</details>
 
 ---
 
 # 🧭 How I Work
 
 I write code that is:
-- **Predictable**
-- **Clear**
-- **Documented where it matters**
-- **Easy to evolve without breaking the base**
 
-My approach:
-1. Build a **stable foundation**
-2. Evolve incrementally
-3. Keep systems calm, maintainable, and consistent
+- **Predictable**  
+- **Clear**  
+- **Documented where it matters**  
+- **Easy to evolve without breaking the foundation**
+
+My engineering approach:
+1. Build a **solid base**  
+2. Evolve incrementally  
+3. Maintain consistent, calm systems  
 
 ---
 
-# 📚 Current Learning & Focus
+# 📚 Current Focus & Learning
 
-### **Career‑Aligned**
-- Backend PHP best practices
-- Laravel architecture & SQL optimization
-- Docker & reproducible infra
+### Career-Oriented
+- PHP backend best practices  
+- Laravel + SQL  
+- Docker infrastructure  
 
-### **Next Specialization (2025 Plan)**
-- IBM z/OS Practitioner
-- IBM Mainframe Developer
-- Java enterprise fundamentals
-- Go Specialization
-- Early modernization tooling (DocumentForge, JetBrains plugins)
+### Adjacent
+- IBM z/OS Practitioner & Mainframe Developer  
+- Java (Spring/Spring Boot planned)  
+- Go specialization  
+- Early modernization tooling work (DocumentForge, JetBrains plugins)
 
 ---
 
@@ -117,70 +107,16 @@ My approach:
 
 ---
 
-<details>
-<summary>🇨🇦 Version Française</summary>
+# 🇨🇦 Version Française
 
-# 👋 Bonjour, je suis **Mederick**
-**Développeur Backend — PHP • C# (.NET) • SQL • Docker • Linux**
+## 🧱 Stack Principale
 
-Je construis des systèmes backend **clairs, stables et faciles à maintenir**, avec un focus sur le comportement prévisible, la structure et l’évolution contrôlée.
+Backend : PHP 8+, Laravel, C#, ASP.NET MVC/API, Node.js, Go  
+Bases de données : MySQL, PostgreSQL  
+Frontend : Blade, Alpine.js, React léger  
+Outils : Docker, Linux, Git, environnements reproductibles  
 
-🔎 **Ouvert aux opportunités backend PHP ou .NET**.
-
----
-
-# 🧱 Stack Principale
-
-### **Backend**
-- **PHP 8+** (PHP pur, Laravel)
-- **C# / ASP.NET MVC**
-- **Node.js / TypeScript**
-- **Go** (outils CLI)
-- **Java 21** (concepts d’intégration)
-- **COBOL / JCL** (compréhension pour la modernisation)
-
-### **Bases de données**
-- **MySQL**, **PostgreSQL**
-- Notions de DB2
-
-### **Frontend**
-- Blade • Alpine.js  
-- React léger au besoin  
-
-### **Environnements & Outils**
-- **Docker**, Linux (WSL2/Ubuntu), Git  
-- Environnements reproductibles  
-- Automatisation Bash  
-
-### **Pratiques d’ingénierie**
-- Typage strict  
-- Clauses de garde  
-- Analyse statique (PHPStan)  
-- Documentation ciblée  
-- Architecture incrémentale  
+*(Le reste de la version complète FR peut être généré aussi si tu veux la version miroir.)*
 
 ---
 
-# 🛠 Projets Importants
-
-### **TechAssist — Système de Tickets (PHP 8, Docker)**
-https://github.com/MederickBernier/TechAssist
-
-### **Kupoval — Fondations Backend E‑commerce**
-https://github.com/MederickBernier/Kupoval
-
-### **JCLGenerator — Générateur JCL en CLI (Go)**
-https://github.com/MederickBernier/JCLGenerator
-
-### **HESDashboard — Tableau de bord ASP.NET MVC**
-https://github.com/MederickBernier/HESDashboard
-
-### **Scripts & Configurations**
-Bash • Linux
-
----
-
-# 📬 Contact
-LinkedIn • GitHub
-
-</details>
