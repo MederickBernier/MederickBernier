@@ -8,7 +8,7 @@ I build **clear, stable, maintainable backend systems** with a strong emphasis o
 
 ---
 
-# 🧱 Core Stack (EN)
+# 🧱 Core Stack
 
 ## Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -34,7 +34,7 @@ I build **clear, stable, maintainable backend systems** with a strong emphasis o
 
 ---
 
-# 🛠 Notable Projects (EN)
+# 🛠 Notable Projects
 
 ### **TechAssist — Lightweight Ticket System (PHP 8, Docker)**
 Vanilla PHP system with a clean, maintainable backend.  
@@ -54,7 +54,7 @@ Dashboard demonstrating .NET MVC structure.
 
 ---
 
-# 📊 GitHub Stats (EN)
+# 📊 GitHub Stats
 
 <details>
 <summary>Click to expand</summary>
@@ -67,7 +67,7 @@ Dashboard demonstrating .NET MVC structure.
 
 ---
 
-# 🧭 How I Work (EN)
+# 🧭 How I Work
 
 I write code that is:
 
@@ -83,7 +83,7 @@ My engineering approach:
 
 ---
 
-# 📚 Current Focus & Learning (EN)
+# 📚 Current Focus & Learning
 
 ### Career-Oriented
 - PHP backend best practices  
@@ -98,7 +98,7 @@ My engineering approach:
 
 ---
 
-# 📬 Contact (EN)
+# 📬 Contact
 
 | Platform | Link |
 |---------|------|
@@ -109,7 +109,7 @@ My engineering approach:
 
 ---
 
-# 🇨🇦 VERSION FRANÇAISE — MIROIR EXACT
+# 🇨🇦 VERSION FRANÇAISE
 
 # 👋 Bonjour, je suis **Mederick**  
 **Développeur Backend — PHP • C# • SQL • Docker • Linux**
@@ -121,7 +121,7 @@ Je construis des systèmes backend **clairs, stables et maintenables**, avec un 
 
 ---
 
-# 🧱 Stack Principale (FR)
+# 🧱 Stack Principale
 
 ## Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -147,7 +147,7 @@ Je construis des systèmes backend **clairs, stables et maintenables**, avec un 
 
 ---
 
-# 🛠 Projets Importants (FR)
+# 🛠 Projets Importants
 
 ### **TechAssist — Système de Tickets (PHP 8, Docker)**
 Système en PHP pur, conçu pour être simple, stable et maintenable.  
@@ -167,7 +167,7 @@ Démonstration claire d’une architecture MVC en .NET.
 
 ---
 
-# 📊 Statistiques GitHub (FR)
+# 📊 Statistiques GitHub
 
 <details>
 <summary>Cliquez pour ouvrir</summary>
@@ -180,7 +180,7 @@ Démonstration claire d’une architecture MVC en .NET.
 
 ---
 
-# 🧭 Ma Façon de Travailler (FR)
+# 🧭 Ma Façon de Travailler
 
 J’écris du code :
 
@@ -196,7 +196,7 @@ Méthode :
 
 ---
 
-# 📚 Formations & Axes Actuels (FR)
+# 📚 Formations & Axes Actuels
 
 ### Aligné avec ma carrière
 - Bonnes pratiques backend PHP  
@@ -211,7 +211,7 @@ Méthode :
 
 ---
 
-# 📬 Contact (FR)
+# 📬 Contact
 
 | Plateforme | Lien |
 |------------|------|
