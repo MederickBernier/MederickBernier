@@ -1,77 +1,83 @@
-# 👋 Hi, I'm **Mederick**  
-**Backend Developer — PHP • SQL • Docker • Linux**
+# 👋 Hi, I'm **Mederick**
+**Backend Developer — PHP • C# (.NET) • SQL • Docker • Linux**
 
-I build **clear, stable, maintainable backend systems** with a strong emphasis on predictable behavior, structure, and long-term evolution.
+I build **clear, stable, maintainable backend systems** with a strong emphasis on predictable behavior, structure, and long‑term evolution.
 
-🔎 **Currently seeking backend PHP opportunities** (Laravel, PHP 8, SQL, Docker).  
+🔎 **Currently seeking backend PHP or .NET opportunities** (Laravel, PHP 8, ASP.NET MVC, SQL, Docker).
 
 ---
 
-# 🇺🇸 English Version
-
-## 🧱 Core Stack
+# 🧱 Core Stack
 
 ### **Backend**
 - **PHP 8+** (vanilla, Laravel, backend architecture)
-- **Node.js / TypeScript** (professional internship experience)
-- **Go** (CLI tools, batch workflows)
-- **Java 21** (integration patterns)
-- **COBOL / JCL** (ecosystem-level understanding for modernization)
+- **C# / ASP.NET MVC** (AEC training + practical project)
+- **Node.js / TypeScript** (professional internship)
+- **Go** (CLI tooling, batch workflows)
+- **Java 21** (integration patterns, ongoing learning)
+- **COBOL / JCL** (ecosystem understanding for modernization)
 
 ### **Databases**
-- **MySQL**, **PostgreSQL**  
-- Basic understanding of DB2 patterns  
+- **MySQL**, **PostgreSQL**
+- Familiarity with DB2 patterns
 
 ### **Frontend**
-- Blade • Alpine.js  
-- Light React usage when appropriate  
+- Blade • Alpine.js
+- Light React usage when appropriate
 
 ### **Environments & Tooling**
-- **Docker**, Linux (WSL2/Ubuntu), Git  
-- Reproducible dev setups  
-- Bash automation  
+- **Docker**, Linux (WSL2/Ubuntu), Git
+- Reproducible dev environments
+- Bash automation
 
 ### **Engineering Practices**
-- Strict typing  
-- Guard clauses  
-- Predictable behavior  
-- Static analysis (**PHPStan**)  
-- Documentation where it matters  
+- Strict typing
+- Guard clauses
+- Predictable behavior
+- Static analysis (**PHPStan**)
+- Documentation where it matters
 - Incremental architecture (solid foundation → controlled evolution)
 
 ---
 
-## 🛠 Notable Projects
+# 🛠 Notable Projects
 
 ### **1. TechAssist — Lightweight Ticket System (PHP 8, Docker)**
-Vanilla PHP 8 ticket/helpdesk system with a focus on clarity and maintainability.  
+Vanilla PHP 8 ticket/helpdesk system focused on clarity and maintainability.  
 **Tech:** PHP 8 • Docker • MariaDB  
 🔗 https://github.com/MederickBernier/TechAssist
 
 ---
 
-### **2. Kupoval — Modern E-commerce Backend Foundations**
-Modular, structured backend architecture for an e-commerce foundation.  
+### **2. Kupoval — E-commerce Backend Foundations (Laravel)**
+Modular, structured backend architecture for a modern e‑commerce foundation.  
 **Tech:** Laravel • PostgreSQL • Docker  
 🔗 https://github.com/MederickBernier/Kupoval
 
 ---
 
 ### **3. JCLGenerator — CLI JCL Generator (Go)**
-Go-based CLI to generate JCL batch scripts deterministically and cleanly.  
+Go‑based CLI tool generating deterministic JCL batch scripts.  
 **Tech:** Go  
 🔗 https://github.com/MederickBernier/JCLGenerator
 
 ---
 
-### **4. Utility Scripts & Configurations**
+### **4. HESDashboard — ASP.NET MVC Dashboard**
+Simple dashboard built using ASP.NET MVC and Razor views.  
+**Tech:** C# • ASP.NET MVC • SQL  
+🔗 https://github.com/MederickBernier/HESDashboard
+
+---
+
+### **5. Utility Scripts & Configurations**
 - `docker.sh` — environment bootstrap script  
-- Linux config files, aliases, tooling  
+- Linux configs, aliases, tooling  
 **Tech:** Bash • Linux  
 
 ---
 
-## 🧭 How I Work
+# 🧭 How I Work
 
 I write code that is:
 - **Predictable**
@@ -80,29 +86,29 @@ I write code that is:
 - **Easy to evolve without breaking the base**
 
 My approach:
-1. Build a **stable foundation**  
-2. Evolve incrementally  
-3. Keep systems calm, maintainable, and consistent  
+1. Build a **stable foundation**
+2. Evolve incrementally
+3. Keep systems calm, maintainable, and consistent
 
 ---
 
-## 📚 Current Learning & Focus
+# 📚 Current Learning & Focus
 
-### **Career-Aligned Learning**
-- PHP backend best practices  
-- Laravel & SQL optimization  
-- Docker & reproducible environments  
+### **Career‑Aligned**
+- Backend PHP best practices
+- Laravel architecture & SQL optimization
+- Docker & reproducible infra
 
-### **Adjacent Exploration**
-- IBM z/OS Practitioner  
-- IBM Mainframe Developer  
-- Java enterprise fundamentals  
-- Go specialization  
-- Early ideas for modernization tooling (DocumentForge, JetBrains plugins)
+### **Next Specialization (2025 Plan)**
+- IBM z/OS Practitioner
+- IBM Mainframe Developer
+- Java enterprise fundamentals
+- Go Specialization
+- Early modernization tooling (DocumentForge, JetBrains plugins)
 
 ---
 
-## 📬 Contact
+# 📬 Contact
 
 | Platform | Link |
 |---------|------|
@@ -111,22 +117,31 @@ My approach:
 
 ---
 
+<details>
+<summary>🇨🇦 Version Française</summary>
+
+# 👋 Bonjour, je suis **Mederick**
+**Développeur Backend — PHP • C# (.NET) • SQL • Docker • Linux**
+
+Je construis des systèmes backend **clairs, stables et faciles à maintenir**, avec un focus sur le comportement prévisible, la structure et l’évolution contrôlée.
+
+🔎 **Ouvert aux opportunités backend PHP ou .NET**.
+
 ---
 
-# 🇨🇦 Version Française
-
-## 🧱 Stack Principale
+# 🧱 Stack Principale
 
 ### **Backend**
-- **PHP 8+** (PHP pur, Laravel, architectures backend)
-- **Node.js / TypeScript** (expérience professionnelle en stage)
-- **Go** (outils CLI, traitements batch)
-- **Java 21** (patrons d’intégration)
-- **COBOL / JCL** (compréhension écosystémique pour la modernisation)
+- **PHP 8+** (PHP pur, Laravel)
+- **C# / ASP.NET MVC**
+- **Node.js / TypeScript**
+- **Go** (outils CLI)
+- **Java 21** (concepts d’intégration)
+- **COBOL / JCL** (compréhension pour la modernisation)
 
 ### **Bases de données**
-- **MySQL**, **PostgreSQL**  
-- Notions de DB2 et environnements associés  
+- **MySQL**, **PostgreSQL**
+- Notions de DB2
 
 ### **Frontend**
 - Blade • Alpine.js  
@@ -140,78 +155,32 @@ My approach:
 ### **Pratiques d’ingénierie**
 - Typage strict  
 - Clauses de garde  
-- Comportement prévisible  
-- Analyse statique (**PHPStan**)  
+- Analyse statique (PHPStan)  
 - Documentation ciblée  
-- Architecture incrémentale (base solide → évolutions maîtrisées)
+- Architecture incrémentale  
 
 ---
 
-## 🛠 Projets Importants
+# 🛠 Projets Importants
 
-### **1. TechAssist — Système de Tickets (PHP 8, Docker)**
-Système interne de gestion de tickets en PHP pur, conçu pour être simple, stable et facile à maintenir.  
-**Tech :** PHP 8 • Docker • MariaDB  
-🔗 https://github.com/MederickBernier/TechAssist
+### **TechAssist — Système de Tickets (PHP 8, Docker)**
+https://github.com/MederickBernier/TechAssist
 
----
+### **Kupoval — Fondations Backend E‑commerce**
+https://github.com/MederickBernier/Kupoval
 
-### **2. Kupoval — Fondations Backend E-commerce**
-Architecture backend modulaire et structurée pour un système e-commerce.  
-**Tech :** Laravel • PostgreSQL • Docker  
-🔗 https://github.com/MederickBernier/Kupoval
+### **JCLGenerator — Générateur JCL en CLI (Go)**
+https://github.com/MederickBernier/JCLGenerator
 
----
+### **HESDashboard — Tableau de bord ASP.NET MVC**
+https://github.com/MederickBernier/HESDashboard
 
-### **3. JCLGenerator — Générateur JCL en CLI (Go)**
-Outil en CLI écrit en Go pour générer des scripts JCL propres et déterministes.  
-**Tech :** Go  
-🔗 https://github.com/MederickBernier/JCLGenerator
+### **Scripts & Configurations**
+Bash • Linux
 
 ---
 
-### **4. Scripts & Configurations**
-- `docker.sh` — script d’installation d’environnements  
-- Fichiers de configuration Linux, alias, outils  
-**Tech :** Bash • Linux  
+# 📬 Contact
+LinkedIn • GitHub
 
----
-
-## 🧭 Ma Façon de Travailler
-
-J’écris du code :
-- **Prévisible**
-- **Clair**
-- **Documenté au bon endroit**
-- **Facile à faire évoluer sans briser la base**
-
-Méthode :
-1. Construire une **fondation solide**  
-2. Ajouter des évolutions graduellement  
-3. Garder les systèmes calmes, stables et cohérents  
-
----
-
-## 📚 Formations & Axes Actuels
-
-### **Aligné avec ma carrière**
-- Bonnes pratiques backend PHP  
-- Laravel & optimisation SQL  
-- Docker & environnements reproductibles  
-
-### **Exploration Adjacent**
-- IBM z/OS Practitioner  
-- IBM Mainframe Developer  
-- Fondements Java entreprise  
-- Spécialisation Go  
-- Idées d’outils de modernisation (DocumentForge, plugins JetBrains)
-
----
-
-## 📬 Contact
-
-| Plateforme | Lien |
-|------------|------|
-| LinkedIn | https://www.linkedin.com/in/mederick-bernier-095a3b80 |
-| GitHub | https://github.com/MederickBernier |
-
+</details>
